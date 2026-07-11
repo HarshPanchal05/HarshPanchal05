@@ -129,23 +129,6 @@ AI-powered workflow automations built using n8n, OpenAI, Gemini and REST APIs.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HarshPanchal05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Harsh Panchal GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPanchal05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Harsh Panchal Top Languages"
-  />
-</p>
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -166,15 +149,6 @@ AI-powered workflow automations built using n8n, OpenAI, Gemini and REST APIs.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HarshPanchal05&theme=tokyonight&margin-w=15&no-frame=true&row=1"/>
-
-</p>
-
----
 ## 🐍 Contribution Snake
 
 <p align="center">
