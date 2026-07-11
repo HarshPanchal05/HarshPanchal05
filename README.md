@@ -84,12 +84,11 @@ const harsh = {
 <img src="https://skillicons.dev/icons?i=react,vite"/>
 </p>
 
-### Design
+### 🎨 Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma"/>
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="48"/>
-<img src="https://skillicons.dev/icons?i=photoshop"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva"/>
 </p>
 
 ### Tools
