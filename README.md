@@ -88,7 +88,6 @@ const harsh = {
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva"/>
 </p>
 
 ### Tools
