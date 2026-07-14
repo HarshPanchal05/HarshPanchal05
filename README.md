@@ -146,24 +146,21 @@ AI-powered workflow automations built using n8n, OpenAI, Gemini and REST APIs.
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
-
-<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/HarshPanchal05/HarshPanchal05/output/github-contribution-grid-snake-dark.svg?v=3"
+      srcset="https://raw.githubusercontent.com/HarshPanchal05/HarshPanchal05/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/HarshPanchal05/HarshPanchal05/output/github-contribution-grid-snake.svg?v=3"
+      srcset="https://raw.githubusercontent.com/HarshPanchal05/HarshPanchal05/output/github-contribution-grid-snake.svg"
     />
     <img
       alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/HarshPanchal05/HarshPanchal05/output/github-contribution-grid-snake.svg?v=3"
+      src="https://raw.githubusercontent.com/HarshPanchal05/HarshPanchal05/output/github-contribution-grid-snake.svg"
     />
   </picture>
 </p>
