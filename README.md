@@ -137,16 +137,6 @@ AI-powered workflow automations built using n8n, OpenAI, Gemini and REST APIs.
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshPanchal05&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🎯 Currently Learning
 
 - 🤖 AI Agents
